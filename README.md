@@ -1,4 +1,6 @@
-sitewards-phpstorm-dictionary
-=============================
+Sitewards Dictionary for PhpStorm
+===========================
 
-Dictionary file for PHPStorm with Sitewards specific keywords
+Install
+-------
+Go to "Preferences\Spelling", select "Dictionaries" tab and add path to the directory where `sitewards.dic` is stored to "Custom Dictionaries Folder" list.
