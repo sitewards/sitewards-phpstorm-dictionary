@@ -34,3 +34,8 @@ realurl
 extconf
 tsfe
 passwd
+dirname
+repos
+svnadmin
+svnserve
+mkdir
