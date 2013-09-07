@@ -40,3 +40,5 @@ svnadmin
 svnserve
 mkdir
 firegento
+adminlogger
+datatypes
